@@ -1,0 +1,10 @@
+pgnc.pem
+.env
+dist
+build
+*.spec
+.venv
+venv
+.pytest_cache
+.vscode
+*.pyc
